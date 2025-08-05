@@ -28,6 +28,7 @@ public class Test {
                   System.err.println(collect2); 
                   
                   System.out.println("Adding line\n");
+                  System.out.println("Adding line2\n");
 		 
 		 
 	}
