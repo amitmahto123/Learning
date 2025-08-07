@@ -28,7 +28,7 @@ public class Test {
                   System.err.println(collect2); 
                   
                   System.out.println("Adding line\n");
-                  System.out.println("final\n");
+                  System.out.println("finattl\n");
 		 
 		 
 	}
